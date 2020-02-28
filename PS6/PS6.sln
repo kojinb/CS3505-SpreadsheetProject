@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpreadsheetGUI", "SpreadsheetGUI\SpreadsheetGUI.csproj", "{F1C7300B-1632-4E7F-961B-032970249C58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Resources", "Resources\Resources.csproj", "{25D8CD29-B86D-4557-9C84-9F2E7A2D1F37}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Lab12", "Lab12\Lab12.vdproj", "{EAE996F2-32DD-4A40-B2CC-8C660DFF5903}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1C7300B-1632-4E7F-961B-032970249C58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1C7300B-1632-4E7F-961B-032970249C58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1C7300B-1632-4E7F-961B-032970249C58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1C7300B-1632-4E7F-961B-032970249C58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25D8CD29-B86D-4557-9C84-9F2E7A2D1F37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25D8CD29-B86D-4557-9C84-9F2E7A2D1F37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25D8CD29-B86D-4557-9C84-9F2E7A2D1F37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAE996F2-32DD-4A40-B2CC-8C660DFF5903}.Debug|Any CPU.ActiveCfg = Debug
+		{EAE996F2-32DD-4A40-B2CC-8C660DFF5903}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37D3E90B-8C42-40CD-B6CC-D13DE5F41F42}
+	EndGlobalSection
+EndGlobal
