@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DependencyGraph</name>
+    </assembly>
+    <members>
+        <!-- Badly formed XML comment ignored for member "T:SpreadsheetUtilities.DependencyGraph" -->
+        <!-- Badly formed XML comment ignored for member "M:SpreadsheetUtilities.DependencyGraph.#ctor" -->
+        <!-- Badly formed XML comment ignored for member "P:SpreadsheetUtilities.DependencyGraph.Size" -->
+        <!-- Badly formed XML comment ignored for member "P:SpreadsheetUtilities.DependencyGraph.Item(System.String)" -->
+        <!-- Badly formed XML comment ignored for member "M:SpreadsheetUtilities.DependencyGraph.HasDependents(System.String)" -->
+        <!-- Badly formed XML comment ignored for member "M:SpreadsheetUtilities.DependencyGraph.HasDependees(System.String)" -->
+        <!-- Badly formed XML comment ignored for member "M:SpreadsheetUtilities.DependencyGraph.GetDependents(System.String)" -->
+        <!-- Badly formed XML comment ignored for member "M:SpreadsheetUtilities.DependencyGraph.GetDependees(System.String)" -->
+        <!-- Badly formed XML comment ignored for member "M:SpreadsheetUtilities.DependencyGraph.AddDependency(System.String,System.String)" -->
+        <!-- Badly formed XML comment ignored for member "M:SpreadsheetUtilities.DependencyGraph.RemoveDependency(System.String,System.String)" -->
+        <!-- Badly formed XML comment ignored for member "M:SpreadsheetUtilities.DependencyGraph.ReplaceDependents(System.String,System.Collections.Generic.IEnumerable{System.String})" -->
+        <!-- Badly formed XML comment ignored for member "M:SpreadsheetUtilities.DependencyGraph.ReplaceDependees(System.String,System.Collections.Generic.IEnumerable{System.String})" -->
+    </members>
+</doc>
